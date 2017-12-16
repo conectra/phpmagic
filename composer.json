@@ -1,5 +1,5 @@
 {
-  "name": "solis/phpmagic",
+  "name": "conectra/phpmagic",
   "description": "The Expressive magic package",
   "license": "MIT",
   "authors": [
@@ -10,8 +10,8 @@
   ],
   "require": {
     "php": ">=7.0",
-    "solis/phpbreaker": "~v1.0",
-    "solis/phpschema": "~v1.0"
+    "conectra/phpbreaker": "~v1.0",
+    "conectra/phpschema": "~v1.0"
   },
   "autoload": {
     "psr-4": {
